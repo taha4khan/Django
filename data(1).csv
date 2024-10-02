@@ -1,3 +1,3 @@
 Order Id,Destination,Destination IATA,Origin,Origin IATA,Type,Departure,Arrival
-12345,Karachi,KHI,Lahore,LHE,ONEWAY,12-Aug-2021,
-12345,Lahore,LHE,Islamabad,ISB,RETURN,12-Aug-2021,14-Aug-2021
+12345,Karachi,KHI,Lahore,LHE,ONEWAY,12-Aug-21,
+12345,Lahore,LHE,Islamabad,ISB,RETURN,12-Aug-21,14-Aug-21
